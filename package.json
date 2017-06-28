@@ -1,11 +1,5 @@
 {
   "scripts": {
-    "start": "node_modules/.bin/nightwatch --config nightwatch.conf.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "dependencies": {
-    "nightwatch": "^0.9.15",
-    "selenium-download": "^2.0.10"
-  },
-  "devDependencies": {},
+    "start": "nightwatch --config nightwatch.conf.js"
+  }
 }
