@@ -1,0 +1,5 @@
+npm init
+npm install nightwatch
+npm install selenium-download
+node nightwatch.conf.js
+npm start
